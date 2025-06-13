@@ -1,9 +1,3 @@
-# Omori Source
-Source code of the game OMORI in the form of RPG Maker project.
-This is for educational purposes only
-
----
-
 # Changes Made
 
 * Decrypted all files (obviously)
